@@ -2,7 +2,7 @@
 
 ## Creating a collection with PARADISEC
 
-Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC administration at [admin@paradisec.org.au](admin@paradisec.org.au). You will need to provide us with the following information:
+Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC administration at [admin@paradisec.org.au](admin@paradisec.org.au) or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au). You will need to provide us with the following information:
 
 * Collection ID (see below)
 * A brief title of your collection
