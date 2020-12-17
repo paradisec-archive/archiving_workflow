@@ -17,6 +17,6 @@ You can edit the collection information after it has been created, adding detail
 Once you are added as a user, we can help you start a collection.  First you need to create a name for your collection; it should be unique and include your initials (all caps and no spaces) and a digit:
 
 Example collection IDs:
-JM1, JCM4, NT6, PK1, PK2, etc.
+**JM1, JCM4, NT6, PK1, PK2, etc.**
 
-The digit is required and it distinguishes you from someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. JM1, JM2... JM85.
+The digit is required and it distinguishes you from someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85**.
