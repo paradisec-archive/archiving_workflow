@@ -27,12 +27,14 @@ Example collection IDs:
 
 The digit is required and it distinguishes you from someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85**.
 
-### Organise yout files
+### Organise your files
 
 ### Fill in metadata sheet
 
 ### Fill out deposit form
 
 ### Sending your files to PARADISEC
+
+Sign up for a Cloudstor account if you have not already done so. Once you do so, you get 1TB of free storage available to you instantly. This is the best means to transfer files to PARADISEC.
 
 
