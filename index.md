@@ -1,4 +1,4 @@
-#Getting Started with PARADISEC
+# Getting Started with PARADISEC
 
 ## Creating a collection with PARADISEC
 
