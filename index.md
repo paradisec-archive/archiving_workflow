@@ -12,6 +12,10 @@ Signing up with PARADISEC means you become a PARADISEC user. As a user you can a
 
 You also need to sign up with PARADISEC if you wish to deposit material to the archive. 
 
+<p align="center">
+  <img width="500" src="images/PDSC-Workflow-signin.jpg">
+</p>
+
 The process of signing up is simple- go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/), and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, 
 >*"A message with a confirmation link has been sent to your email address. Please open the link to activate your account"*
 
