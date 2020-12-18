@@ -36,7 +36,7 @@ Only PARADISEC administrators can create a collection in the catalog.  When you 
 * A brief title of your collection
 * A more detailed description of your collection
 * Funding body (if applicable) (e.g. ARC, ELDP, etc.)
-   * Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
+* Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
 
 
 ### Preliminary exploration of your files
@@ -81,7 +81,8 @@ The name *20150908‐wordlist‐01.wav* does not fit with the PARADISEC naming c
 
   **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
 
-| CollectionID  |  ItemID  | ContentFile  |  File Extension  |
+| Collection  |  Item  | Content  |  File  |
+| ID            |  ID  | File    |  Extension  |
 |  :----:  |   :----:   | :----:  | :----:  |
 | JCM01 | 20150908_wordlist | 01 | .wav |
 
