@@ -12,7 +12,10 @@ Signing up with PARADISEC means you become a PARADISEC user. As a user you can a
 
 You also need to sign up with PARADISEC if you wish to deposit material to the archive. 
 
-The process of signing up is simple- go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/), and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, _“A message with a confirmation link has been sent to your email address. Please open the link to activate your account”._ Click on the link in your email to confirm. 
+The process of signing up is simple- go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/), and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, 
+>A message with a confirmation link has been sent to your email address. Please open the link to activate your account
+
+Click on the link in your email to confirm. 
 
 You are now a PARADISEC user! It is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Below are a some examples:
 * ***PhD thesis:*** [OE1](https://dx.doi.org/10.4225/72/58949afab6af0) is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes the segmented audio files that are linked to the exemplar utterances within the thesis.
