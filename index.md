@@ -61,7 +61,13 @@ Once your collection has been created, and has been populated with the metadata 
 * your institutional affiliation
 * alternate names of the language(s)
 * you can set the map by zooming in on the map feature and selecting an area
-* you can define/change access conditions,
+<p align="center">
+  <img width="500" src="images/PDSC-Workflow-map.jpg">
+</p>
+* you can define/change access conditions
+<p align="center">
+  <img width="500" src="images/PDSC-workflow-access.jpg">
+</p>
 * you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata
 
 ### PARADISEC's file naming conventions
