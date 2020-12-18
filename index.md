@@ -1,6 +1,6 @@
 # Getting Started with PARADISEC
 
-This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived. Most of this is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/), but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/) or [The Language Archive (TLA)](https://archive.mpi.nl/tla/).
+This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived. The following information is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/).
 
 ## STEP 1: Sign up as a user with PARADISEC
 Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
