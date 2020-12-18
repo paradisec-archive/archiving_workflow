@@ -47,14 +47,14 @@ Before you contact PARADISEC, take a look at your files and determine how you wa
 
 Once you have decided upon which files you would like to archive, come up with a name and description for your collection. As for the Collection ID, PARADISEC administrators can help you come up with this- the collection ID should be a unique identifier (could be your initials in all caps and a digit, or the ISO language code).
 
-*Example collection IDs: **JM1, JCM4, OE1, MEU1, etc.**
+*Example collection IDs: **JM1, JCM4, OE1, MEU1, etc.** <br>
 The digit is required and it distinguishes your collection from that of someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85***.
 
 ## STEP 3: Organise materials to be sent to collection
 
 ### PARADISEC's metadata spreadsheet
 
-PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx). If the .xlsx file does not download automatically, then right-click on the link to save the file. Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
+PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx). *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
 
 Once your collection has been created, and has been populated with the metadata for your items, you can edit you collection information directly via the catalog pages. You can add details such as:
 
@@ -69,7 +69,7 @@ Once your collection has been created, and has been populated with the metadata 
 Now comes the thrilling task of making sure your files are names appropriately. Getting your file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording sessions) within your collection. 
 
 **ANATOMY OF A PARADISEC FILE NAME**
-Say you have, for example, a file that you named 20150908‐wordlist‐01.wav while in the field. This in‐field naming convention includes the date in ISO format (YYYYMMDD). The (‐wordlist) marks this as being from a session involving wordlist elicitation. The (‐01) indicates that this is the first track of the session. You will have your own conventions. 
+Say you have, for example, a file that you named ***20150908‐wordlist‐01.wav*** while in the field. This in‐field naming convention includes the date in ISO format (YYYYMMDD). The (‐wordlist) marks this as being from a session involving wordlist elicitation. The (‐01) indicates that this is the first track of the session. You will have your own conventions. 
 
 The name *20150908‐wordlist‐01.wav* does not fit with the PARADISEC naming conventions. First of all, there needs to be a collection ID followed by a hyphen, and then only two more parts separated by hyphens: CollectionIDItemID‐ContentFile.
 
@@ -77,7 +77,7 @@ The name *20150908‐wordlist‐01.wav* does not fit with the PARADISEC naming c
 
 2. **ItemID** is also made up of alpha‐numeric characters. You may use an underscore ( _ ) if you need a separator; hyphens ( ‐ ) are reserved PARADISEC operators,  so cannot be used within a file name, excepting the two that separate the three parts of the file name. This ItemID can be used to differentiate recording sessions or events. You may have speaker initials in your item name (JB), description of the task (wordlist), field site (BIMA).
 
-3. **ContentFile** is also made up of alpha‐numeric characters. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named *20150908‐wordlist‐01.wav*, you could try something like this: *JCM01‐20150908_wordlist‐01.wav*
+3. **ContentFile** is also made up of alpha‐numeric characters. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named ***20150908‐wordlist‐01.wav***, you could try something like this: ***JCM01‐20150908_wordlist‐01.wav***
 
   **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
 
