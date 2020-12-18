@@ -50,9 +50,15 @@ The digit is required and it distinguishes your collection from that of someone 
 
 ### PARADISEC's metadata spreadsheet
 
-PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for your items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx). if the .xlsx file does not download automatically, then right-click on the link to save file. Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
+PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx). If the .xlsx file does not download automatically, then right-click on the link to save the file. Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
 
-Once your collection has been created, and has been populated with the metadata for your items, you can edit you collection information directly via the catalog pages. You can add details such as your institutional affiliation, alternate names of the language(s), etc. You also can set the map by zooming in on the map feature and selecting an area, you can define/change access conditions, you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata.
+Once your collection has been created, and has been populated with the metadata for your items, you can edit you collection information directly via the catalog pages. You can add details such as:
+
+* your institutional affiliation
+* alternate names of the language(s)
+* you can set the map by zooming in on the map feature and selecting an area
+* you can define/change access conditions,
+* you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata
 
 ### PARADISEC's file naming conventions
 
