@@ -5,7 +5,7 @@
 </p>
 
 
-This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived. The following information is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/).
+This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived with [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/).
 
 ## STEP 1: Sign up as a user with PARADISEC
 Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
@@ -26,15 +26,14 @@ Congratulations, you are now a PARADISEC user! It is recommended that you browse
 
 ## STEP 2: Contact PARADISEC to help you create a new collection
 
-Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC administration at [admin@paradisec.org.au](admin@paradisec.org.au) or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au). You will need to provide us with the following information:
+Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC administration at [admin@paradisec.org.au](admin@paradisec.org.au) or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au). To begin with you will need to provide us with the following information:
 
 * Collection ID
 * A brief title of your collection
 * A more detailed description of your collection
 * Funding body (if applicable) (e.g. ARC, ELDP, etc.)
-* Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
+   * Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
 
-You can edit the collection information after it has been created, adding details such as the originating university, country, language(s), etc. You also can set the map, define access, and assign editor privileges at the collection level.
 
 ### Preliminary exploration of your files
 
@@ -51,13 +50,29 @@ The digit is required and it distinguishes your collection from that of someone 
 
 ### PARADISEC's metadata spreadsheet
 
+PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for your items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx). if the .xlsx file does not download automatically, then right-click on the link to save file. Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
+
+Once your collection has been created, and has been populated with the metadata for your items, you can edit you collection information directly via the catalog pages. You can add details such as your institutional affiliation, alternate names of the language(s), etc. You also can set the map by zooming in on the map feature and selecting an area, you can define/change access conditions, you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata.
+
 ### PARADISEC's file naming conventions
 
-Now come the thrilling task of making sure your files are names appropriately
+Now comes the thrilling task of making sure your files are names appropriately. Getting your file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording sessions) within your collection. 
+
+**ANATOMY OF A PARADISEC FILE NAME**
+Say you have, for example, a file that you named 20150908‐wordlist‐01.wav while in the field. This in‐field naming convention includes the date in ISO format (YYYYMMDD). The (‐wordlist) marks this as being from a session involving wordlist elicitation. The (‐01) indicates that this is the first track of the session. You will have your own conventions. 
+
+The name 20150908‐wordlist‐01.wav does not fit with the PARADISEC naming conventions. First of all, there needs to be a collection ID followed by a hyphen, and then only two more parts separated by hyphens: CollectionIDItemID‐ContentFile.
+
+1. **CollectionID** is your PARADISEC collection name and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
+
+2. **ItemID** is also made up of alpha‐numeric characters. You may use an underscore ( _ )if you need a separator; hyphens ( ‐ ) are reserved PARADISEC operators,  so cannot be used within a file name, excepting the two that separate the three parts of the file name. This ItemID can be used to differentiate recording sessions or events. You may have speaker initials in your item name (JB), abbreviation of the task (WRDLST), field site (BIMA).
+3. **ContentFile** is also made up of alpha‐numeric characters. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. If you want to retain some of the original name, try something like this: **JCM01‐20150908_WORDLIST‐01.wav**
+
+  
 
 ### PARADISEC's deposit form
 
-And lastly, you need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdeposit.pdf) that provides PARADISEC with your contact information, access conditions for your collection , including any restrictions. 
+And lastly, you need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdeposit.pdf) that provides PARADISEC with your contact information, access conditions for your collection, including any restrictions. Fill in the form, sign it, scan or photograph it, and email it back to us. We keep this digital record with your collection.
 
 ## STEP 4: Sending your files to PARADISEC
 
