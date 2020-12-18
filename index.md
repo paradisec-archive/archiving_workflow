@@ -1,5 +1,10 @@
 # Getting Started with PARADISEC
 
+<p align="center">
+  <img width="500" src="images/PARADISEC-banner.jpg">
+</p>
+
+
 This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived. The following information is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/).
 
 ## STEP 1: Sign up as a user with PARADISEC
