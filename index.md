@@ -81,8 +81,7 @@ The name *20150908‐wordlist‐01.wav* does not fit with the PARADISEC naming c
 
   **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
 
-| Collection  |  Item  | Content  |  File  |
-| ID            |  ID  | File    |  Extension  |
+| Coll ID  |  Item ID  | Content  |  Extension  |
 |  :----:  |   :----:   | :----:  | :----:  |
 | JCM01 | 20150908_wordlist | 01 | .wav |
 
