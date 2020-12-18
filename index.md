@@ -44,9 +44,8 @@ Before you contact PARADISEC, take a look at your files and determine how you wa
 
 Once you have decided upon what you would like to archive, come up with a name and description for your collection. As for the Collection ID, PARADISEC administrators can help you come up with this- the collection ID should be a unique identifier (could be your initials in all caps and a digit, or the ISO language code).
 
-Example collection IDs:
-**JM1, JCM4, OE1, MEU1, etc.**
-The digit is required and it distinguishes your collection from that of someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85**.
+*Example collection IDs: **JM1, JCM4, OE1, MEU1, etc.**
+The digit is required and it distinguishes your collection from that of someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85***.
 
 ## STEP 3: Organise materials to be sent to collection
 
@@ -63,14 +62,14 @@ Sign up for a [Cloudstor](https://cloudstor.aarnet.edu.au/) account if you have 
 
 If uploading files to a cloud service is not possible, send a hard drive of your materials to PARADISEC at:
 
->PARADISEC
+PARADISEC
 Room 3019, Sydney Conservatorium of Music C41
 The University of Sydney 
 NSW 2006 AUSTRALIA
 
 Or to the CoEDL Data Manager at:
 
->ATTN: CoEDL Data Manager
+ATTN: CoEDL Data Manager
 The ARC Centre of Excellence for the Dynamics of Language
 College of Asia Pacific
 The Australian National University
