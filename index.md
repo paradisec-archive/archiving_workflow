@@ -1,9 +1,17 @@
 # Getting Started with PARADISEC
 
-## Sign up as a user with PARADISEC
-Signing up with PARADISEC means you become a PARADISEC user. This allows you to gain access to collections in the archive. Only as a user can you access data in a PARADISEC collection after agreeing to PARADISEC’s conditions of access, or sending a request to access data that has restrictions on viewing by following instructions provided by the collector.
+This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived. Most of this is geared toward preparing your collection for PARADISEC, but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/) or [The Language Archive (TLA)](https://archive.mpi.nl/tla/).
 
-You also need to sign up with PARADISEC if you wish to deposit material to the archive. Go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/), and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, _“A message with a confirmation link has been sent to your email address. Please open the link to activate your account”._ Click on the link in your email to confirm.
+## STEP 1: Sign up as a user with PARADISEC
+Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
+
+You also need to sign up with PARADISEC if you wish to deposit material to the archive. 
+
+The process of signing up is simple- go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/), and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, _“A message with a confirmation link has been sent to your email address. Please open the link to activate your account”._ Click on the link in your email to confirm. 
+
+You are now a PARADISEC user! It is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Below are a few examples:
+* ***Depositing a PhD thesis*** This collection [OE1](https://dx.doi.org/10.4225/72/58949afab6af0) is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes the segmented audio files that are linked to the exemplar utterances within the thesis.
+* ***
 
 
 ## Creating a collection with PARADISEC
