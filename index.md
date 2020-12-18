@@ -60,9 +60,9 @@ Once your collection has been created, and has been populated with the metadata 
 
 * your institutional affiliation
 * alternate names of the language(s)
-* you can set the map by zooming in on the map feature and selecting an area
+* you can set the map by zooming in on the map feature and selecting an area, or set it automatically by selecting the country or language
 <p align="center">
-  <img width="500" src="images/PDSC-Workflow-map.jpg">
+  <img width="250" src="images/PDSC-Workflow-map.jpg">
 </p>
 * you can define/change access conditions
 <p align="center">
