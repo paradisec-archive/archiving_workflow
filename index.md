@@ -79,12 +79,13 @@ The name 20150908‐wordlist‐01.wav does not fit with the PARADISEC naming con
 
 3. **ContentFile** is also made up of alpha‐numeric characters. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. If you want to retain some of the original name, try something like this: **JCM01‐20150908_WORDLIST‐01.wav**
 
-[CollectionID] - [ItemID] - [ContentFile] . file extension
+  ** TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
 
 | CollectionID  |  ItemID  | Content File  |  File Extension  |
 | --------------|  ------  | --------------| -----------------|
 | JCM01 | 20150908_WORDLIST | 01 | .wav |
-  
+
+> **Note:** No special characters are allowed, no spaces and only the two hyphens are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
 
 ### PARADISEC's deposit form
 
@@ -96,17 +97,17 @@ If you are planing to archive digital files with PARADISEC, and your institution
 
 If uploading files to a cloud service is not possible due to a lack of computer access or poor internet connections, you can post a hard drive of your materials to PARADISEC at:
 
-PARADISEC <br>
+*PARADISEC <br>
 Room 3019, Sydney Conservatorium of Music C41 <br>
 The University of Sydney <br>
-NSW 2006 AUSTRALIA <br>
+NSW 2006 AUSTRALIA* <br>
 
 Or to the CoEDL Data Manager at:
 
-ATTN: CoEDL Data Manager <br>
+*ATTN: CoEDL Data Manager <br>
 The ARC Centre of Excellence for the Dynamics of Language <br>
 College of Asia Pacific <br>
 The Australian National University <br>
 Coombs Building, 9 Fellows Road <br>
-Acton 2601 ACT AUSTRALIA <br>
+Acton 2601 ACT AUSTRALIA* <br>
 
