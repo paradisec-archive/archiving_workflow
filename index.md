@@ -71,7 +71,7 @@ Now comes the thrilling task of making sure your files are names appropriately. 
 **ANATOMY OF A PARADISEC FILE NAME**
 Say you have, for example, a file that you named ***20150908‐wordlist‐01.wav*** while in the field. This in‐field naming convention includes the date in ISO format (YYYYMMDD). The (‐wordlist) marks this as being from a session involving wordlist elicitation. The (‐01) indicates that this is the first track of the session. You will have your own conventions. 
 
-The name *20150908‐wordlist‐01.wav* does not fit with the PARADISEC naming conventions. First of all, there needs to be a collection ID followed by a hyphen, and then only two more parts separated by hyphens: CollectionIDItemID‐ContentFile.
+The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC naming conventions. First of all, there needs to be a collection ID followed by a hyphen, and then only two more parts separated by hyphens: CollectionIDItemID‐ContentFile.
 
 1. **CollectionID** is your PARADISEC collection name and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
 
