@@ -75,15 +75,15 @@ The name *20150908‐wordlist‐01.wav* does not fit with the PARADISEC naming c
 
 1. **CollectionID** is your PARADISEC collection name and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
 
-2. **ItemID** is also made up of alpha‐numeric characters. You may use an underscore ( _ ) if you need a separator; hyphens ( ‐ ) are reserved PARADISEC operators,  so cannot be used within a file name, excepting the two that separate the three parts of the file name. This ItemID can be used to differentiate recording sessions or events. You may have speaker initials in your item name (JB), abbreviation of the task (WRDLST), field site (BIMA).
+2. **ItemID** is also made up of alpha‐numeric characters. You may use an underscore ( _ ) if you need a separator; hyphens ( ‐ ) are reserved PARADISEC operators,  so cannot be used within a file name, excepting the two that separate the three parts of the file name. This ItemID can be used to differentiate recording sessions or events. You may have speaker initials in your item name (JB), description of the task (wordlist), field site (BIMA).
 
-3. **ContentFile** is also made up of alpha‐numeric characters. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named *20150908‐wordlist‐01.wav*, you could try something like this: *JCM01‐20150908_WORDLIST‐01.wav*
+3. **ContentFile** is also made up of alpha‐numeric characters. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named *20150908‐wordlist‐01.wav*, you could try something like this: *JCM01‐20150908_wordlist‐01.wav*
 
   **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
 
 | CollectionID  |  ItemID  | ContentFile  |  File Extension  |
 |  :----:  |   :----:   | :----:  | :----:  |
-| JCM01 | 20150908_WORDLIST | 01 | .wav |
+| JCM01 | 20150908_wordlist | 01 | .wav |
 
 > **Note:** No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
 
