@@ -9,11 +9,11 @@ You also need to sign up with PARADISEC if you wish to deposit material to the a
 
 The process of signing up is simple- go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/), and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, _“A message with a confirmation link has been sent to your email address. Please open the link to activate your account”._ Click on the link in your email to confirm. 
 
-You are now a PARADISEC user! It is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Below are a few examples:
+You are now a PARADISEC user! It is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Below are a some examples:
 * ***PhD thesis:*** [OE1](https://dx.doi.org/10.4225/72/58949afab6af0) is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes the segmented audio files that are linked to the exemplar utterances within the thesis.
-* ***Field methods course:*** [MEU1](https://dx.doi.org/10.26278/5e00d67b8be35) collection holds all of the recordings generated during a field methods course at ANU. Note how the different type of events (classroom recordings vs breakout sessions) are kept together by the nature of the item names.
-* ***Separate collections for each language/dialect/variety:*** [SDM42](https://catalog.paradisec.org.au/collections/SDM42) and [SDM45](http://catalog.paradisec.org.au/collections/SDM45) this depositor has chosen to create separate collections for each language they have recorded. There is no limit as to how many collections you can create.
-* ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0) collection, the depositor has included recordings of over 25 languages that have been collected since 2010. The collection is still growing! 
+* ***Field methods course:*** [MEU1](https://dx.doi.org/10.26278/5e00d67b8be35) collection holds all of the recordings generated during a field methods course. Note how the different type of events (classroom recordings vs breakout sessions) are kept together by the nature of the item names.
+* ***Separate collections for each language/dialect/variety:*** Explore two of this depositor's 27 collections, [SDM42](https://catalog.paradisec.org.au/collections/SDM42) and [SDM45](http://catalog.paradisec.org.au/collections/SDM45). Each of these collections feature one language variety. There is no limit as to how many collections you can create.
+* ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0) collection, the depositor has included recordings of over 25 languages, collected since 2010. The collection is still growing! 
 
 
 ## Creating a collection with PARADISEC
