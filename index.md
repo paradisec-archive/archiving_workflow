@@ -68,16 +68,18 @@ Once your collection has been created, and has been populated with the metadata 
 
 Now comes the thrilling task of making sure your files are named appropriately. Getting your file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording events) within your collection. 
 
-**ANATOMY OF A PARADISEC FILE NAME**
+**ANATOMY OF A PARADISEC FILE NAME**<br>
 Say you have, for example, a file that you named ***20150908‐wordlist‐01.wav*** while in the field. This in‐field naming convention includes the date in ISO format (YYYYMMDD). The (‐wordlist) marks this as being from a session involving wordlist elicitation. The (‐01) indicates that this is the first track of the session. You will have your own conventions. 
 
-The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC naming conventions. First of all, there needs to be a collection ID followed by a hyphen, and then only two more parts separated by hyphens: CollectionIDItemID‐ContentFile.
+The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC naming conventions. First of all, there needs to be a collection ID followed by a hyphen, and then only two more parts separated by hyphens: CollectionID-ItemID‐ContentFile.
 
-1. **CollectionID** is your PARADISEC collection name and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
+1. **CollectionID** is your PARADISEC collection ID and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
 
-2. **ItemID** is also made up of alpha‐numeric characters. You may use an underscore ( _ ) if you need a separator; hyphens ( ‐ ) are reserved PARADISEC operators,  so cannot be used within a file name, excepting the two that separate the three parts of the file name. This ItemID can be used to differentiate recording sessions or events. You may have speaker initials in your item name (JB), description of the task (wordlist), field site (BIMA).
+2. **ItemID** is your PARADISEC item ID. An item could be a cassette tape, or now in the born-digital age, it is typically an recording event containing all related files from that session- audio, video, transcriptions). You must use a terse description here. You may use an underscore ( _ ) if you need a separator; hyphens ( ‐ ) are prohibited *within* your Item ID as they are reserved PARADISEC operators. You could have speaker initials in your item name (JB), description of the task (wordlist), field site (BIMA).
 
-3. **ContentFile** is also made up of alpha‐numeric characters. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named ***20150908‐wordlist‐01.wav***, you could try something like this: ***JCM01‐20150908_wordlist‐01.wav***
+3. **ContentFile** is the final necessary part to a file name. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named ***20150908‐wordlist‐01.wav***, you could try something like this: ***JCM01‐20150908_wordlist‐01.wav***
+
+>**Note:** Even if your item contains only one file, and thus does not need to be differentiated from other files in the item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
 
   **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
 
